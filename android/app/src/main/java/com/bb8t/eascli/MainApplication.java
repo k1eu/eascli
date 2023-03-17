@@ -1,4 +1,4 @@
-package dev.bb8t.eascli;
+package com.bb8t.eascli;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
