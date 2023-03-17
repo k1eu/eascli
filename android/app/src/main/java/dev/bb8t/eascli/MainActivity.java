@@ -1,4 +1,4 @@
-package com.eascli;
+package dev.bb8t.eascli;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

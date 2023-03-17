@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.eascli"
+    namespace "dev.bb8t.eascli"
     defaultConfig {
-        applicationId "com.eascli"
+        applicationId "dev.bb8t.eascli"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
