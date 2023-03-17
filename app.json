@@ -1,9 +1,9 @@
 {
-  "name": "eascli",
-  "displayName": "eascli",
+  "name": "eascli2",
+  "displayName": "eascli2",
   "extra": {
     "eas": {
-      "projectId": "8dab144b-7e51-4ba0-9326-e186a84bd4c1"
+      "projectId": "a747962d-fc5f-4b85-9294-98a05c479891"
     }
   }
 }
